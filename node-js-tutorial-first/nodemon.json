@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "rafeequideveloper",
+        "MONGO_PASSWORD": "mongodb",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_test_51IElBXGrLlMYHZ1asGEmv7VIQfYHlqRxbp1LRe45Flw0DLbs7xIEnpdul1BKiCPyGZ1mSpCDdSVwTjQHxJ4N8pCv00oHClXnmV"
+    }
+}
